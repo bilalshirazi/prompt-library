@@ -1,0 +1,11 @@
+Please analyze the image of my daily beverage tracker sheet and create a Markdown table with the following specifications:
+
+Include a header row with the title 'Beverage Tracker for [DATE]', using the date from the sheet.
+Create a table with two columns: 'Item' and 'Quantity'.
+List all beverage items in the order they appear on the sheet.
+Provide the quantity for each item based on the tally marks.
+Exclude any pricing information.
+If you're unsure about an item name or quantity, place it in square brackets [like this].
+For any completely unclear entries, include them as they appear on the sheet, also in square brackets.
+
+Please format the output as a Markdown table so it can be easily copied and pasted into my tracking system. After the table, provide a brief note explaining any uncertainties or ambiguities you encountered.
